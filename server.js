@@ -9,3 +9,4 @@ app.listen(3000,'localhost',()=>{
     console.log('servidor ok')
 });
 
+// utilize "dev": "nodemon server.js" -> npm run dev
